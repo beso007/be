@@ -1,0 +1,63 @@
+<marquee direction="right" id="as43" scrollamount="3"><font class="a"> </font>  |آهلا وسهلا بكم في شات جفى ● · نورت وطنك هنا نورتنا ·● مع تمنياتنا للجميع بأطيب الاوقات 
+ </marquee>
+
+$(".dpnl").css('width','310px');
+$('.fl.ustat')
+    .css('width', '3px'), $('.fa.fa-user-plus')
+    .html(`❥ سـجـل ويـانـا `), document.getElementById('u1')
+    .placeholder = 'اكتب اسمك من 5 احرف فقط ', 
+document.getElementById('pass1')
+  .placeholder = 'كلمة المرور', document.getElementById('u2')
+    .placeholder = 'فخأمة طلتك تورنا', document.getElementById('pass2')
+    .placeholder = ' ㋡ بـاسوردك ولاتنساه يـ جميل ', document.getElementById('u3')
+    .placeholder = '♥ أكتب اسمك ولازم تحفظه ';
+
+$('.stopic').attr('readonly',true).css('background-color','#eeeeee')
+
+$(document.getElementById("tbox").placeholder = "  　　　 حيـاكم شَــات  جفــ ~ــى ");
+
+<label title="شرح استخدام الشات" href="#" onclick="$('.pnhead').text($(this).attr('title'));hl($(this),'primary');setTimeout(function(){$('#mic').scrollTop(0);},0);$('.dpnl').show();" data-toggle="tab" data-target="#mic" class="ae fa label fa-volume-up label-primary">&nbsp;</label>
+
+<div id="chats" style="height: 100%;width:100%;" class="break light tab-pane border active">
+<img style="height: 99.3%;
+																width:99%;
+																 margin-top: 2px;
+																pointer-events:none;
+																margin-bottom: 5px;
+																" src="https://www.up-00.com/i/00161/102u2uef5cle.gif
+								"><center></center></div>
+
+<a id="asim2" target="_blank" type="a" href="rules.html" style="border-radius: 0 10% 0 0; border-right: 2px solid#a6a6a6;" class="btn minix btn-primary">القوانين</a>
+<a id="asim2" target="_blank" type="a" href="sub.html" style="border-radius: 0%; border-right: 1px solid#f5f8fa;" class="btn minix btn-primary">الاشتراكات</a>
+<a id="asim2" target="_blank" type="a" href="https://www.jfa-w.net/" style="border-radius: 0%; border-right: 1px solid#f5f8fa;" class="btn minix btn-primary">شات جفى</a>
+
+تحديث
+
+<a id="asim99" href="" class="fl mini  fa   fa fa-refresh btn btn-success"></a>
+
+<div id="l1" style="padding:8px;width:100%;" class="grow break tab-pane fade in active">
+<input class="border corner" id="u1" placeholder="اكتب اسمك من 5 احرف فقط " maxlength="10">
+<button onclick="login(1);" class="btn btn-primary">دخول</button><br>&nbsp;
+</div>
+
+<li class=""><a data-toggle="tab" style="padding: 10px 8px;" class="  fa fa-user" href="#l1" aria-expanded="false">دخول الزوار</a></li>
+<li class="active"><a data-toggle="tab" style="padding: 10px 8px;" class=" fa fa-user" href="#l2" aria-expanded="true">دخول الاعضاء</a></li>
+<li><a data-toggle="tab" style="padding: 10px 8px;" class=" fa fa-user-plus" href="#l3">❥ سـجـل ويـانـا </a></li>
+</ul>
+<div id="l1" style="padding:8px;width:100%;" class="grow break tab-pane fade hid">
+<input class="border corner" id="u1" placeholder="اكتب اسمك من 5 احرف فقط " maxlength="10">
+<button onclick="login(1);" class="btn btn-primary">دخول</button><br>&nbsp;
+</div>
+<div id="l2" style="padding:8px;width:100%;" class="grow break tab-pane fade active in">
+<input id="u2" class="border corner" placeholder="فخأمة طلتك تورنا" maxlength="10"><br>
+<input id="pass1" class="border corner" type="password" placeholder="كلمة المرور" maxlength="10">
+<button onclick="login(2);" class="btn btn-primary">دخول</button>
+<div class="checkbox" style="margin:0px;display:inline;">
+<label><input id="stealth" type="checkbox" value="" maxlength="10"><i class="fa fa-eye-slash" aria-hidden="true"></i></label>
+</div>
+</div>
+<div id="l3" style="padding:8px;width:100%;" class="grow break tab-pane fade hid">
+<input id="u3" class="border corner" placeholder="♥ أكتب اسمك ولازم تحفظه " maxlength="10"><br>
+<input id="pass2" class="border corner" type="password" placeholder=" ㋡ بـاسوردك ولاتنساه يـ جميل " maxlength="10">
+<button onclick="login(3);" class="btn btn-primary">دخول</button>
+</div>ظ
